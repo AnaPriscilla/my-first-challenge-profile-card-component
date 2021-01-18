@@ -21,10 +21,10 @@ body {
   display: flex;
   flex-direction: column; 
   margin: auto; 
-  width: 300px; 
-  height: 350px;
+  width: 360px; 
+  height: 380px;
   background-color: #fff;
-  border-radius: 1.4em;
+  border-radius: 1em;
   position: relative;
   overflow: hidden; 
 }
@@ -50,7 +50,7 @@ span {
 }
 
 .location {
-  line-height: 2rem; 
+  line-height: 2.2rem; 
 }
 
 .perfil-name, .numbers {
@@ -67,11 +67,10 @@ span {
   font-family: 'Kumbh Sans';
 }
 
-
 /* To remove bold styling from the span tag */
 .card .card-section, p:first-of-type span {
   font-weight: normal;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 /* Marking line */
@@ -85,16 +84,20 @@ span {
 .info {
   font-size: 10px;
   letter-spacing: 0.1em;
+
 }
+
 .card .card-footer {
-  grid-gap: 25px; 
-  line-height: 1.3rem;
+  grid-gap: 14%; 
+  line-height: 1.2rem;
 }
 
 .card .card-footer {
   display: flex;
   flex-direction: row; 
-  justify-content: center; 
+  justify-content: center;
+  position: relative;
+  left: -2%;
 }
 
 /* Challenge Credits */
