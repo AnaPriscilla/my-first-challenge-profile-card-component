@@ -1,0 +1,113 @@
+* {
+  /* Reset*/
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #19A2AE;
+  background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
+  background-repeat: no-repeat, no-repeat;
+  background-position: -75% 190%, 170% -115%;
+  height: 100vh;
+  display: flex; 
+  flex-direction: column; 
+  text-align: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column; 
+  margin: auto; 
+  width: 300px; 
+  height: 350px;
+  background-color: #fff;
+  border-radius: 1.4em;
+  position: relative;
+  overflow: hidden; 
+}
+
+/* Card Images */
+.card .card-header img {
+  width: 100%; 
+}
+
+.card .card-section img {
+  border-radius: 50%; 
+  transform: translateY(-12%); 
+  border: 8px solid #fff;
+}
+
+/* Card information session */
+.card .card-section {
+  transform: translateY(-28%); 
+}
+
+span {
+  word-spacing: 0.4rem; 
+}
+
+.location {
+  line-height: 2rem; 
+}
+
+.perfil-name, .numbers {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Kumbh Sans';
+  color: #404040;
+}
+
+.card span, .location, .info {
+  color: #969696;
+  font-weight: none;
+  font-size: 13px;
+  font-family: 'Kumbh Sans';
+}
+
+
+/* To remove bold styling from the span tag */
+.card .card-section, p:first-of-type span {
+  font-weight: normal;
+  font-size: 16px;
+}
+
+/* Marking line */
+.line {
+  border-top: 0.02em solid #DBDBDB;
+  position: relative;
+  top: 15px;
+}
+
+/* Card footer */
+.info {
+  font-size: 10px;
+  letter-spacing: 0.1em;
+}
+.card .card-footer {
+  grid-gap: 25px; 
+  line-height: 1.3rem;
+}
+
+.card .card-footer {
+  display: flex;
+  flex-direction: row; 
+  justify-content: center; 
+}
+
+/* Challenge Credits */
+.attribution {
+  font-size: 10px;
+  transform: translateY(-80%);
+  color: #eeeeee;
+}
+
+.attribution a {
+  color:#acf5ff;
+}
+
+.attribution a:hover {
+  color: #62e2f3;
+}
