@@ -1,13 +1,16 @@
-# Frontend Mentor - Profile card component
+# Check my profile with the solutions 🧡
+## I have sent which are great challenges for me! 😊
 
-🖥 Deploy: https://my-first-challenge-profile-card-component.vercel.app/
+💻 This is the link to my solutions on the Front End Mentor: 
 
-🧡Link for my solution: https://www.frontendmentor.io/solutions/html-css-QQVXmyERA
+https://www.frontendmentor.io/profile/AnaPriscilla/solutions 
+
+![Vamos lá! Come On](https://media.giphy.com/media/SYp3ei87e9T8OJYrgx/giphy.gif)
 
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+## About the: Frontend Mentor 👋
+### Welcome! 
 
 Thanks for checking out this front-end coding challenge.
 
@@ -15,7 +18,7 @@ Thanks for checking out this front-end coding challenge.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
-## The challenge
+### The challenge
 
 Your challenge is to build out this profile card component and get it looking as close to the design as possible.
 
@@ -23,7 +26,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## Where to find everything
+### Where to find everything
 
 Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
 
@@ -35,7 +38,7 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
-## Building your project
+### Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
@@ -46,7 +49,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
-## Deploying your project
+### Deploying your project
 
 As mentioned above, there are a number of ways to host your project for free. We recommend using [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
 
@@ -54,7 +57,7 @@ As mentioned above, there are a number of ways to host your project for free. We
 2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
 3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
 
-## Sharing your solution
+### Sharing your solution
 
 There are multiple places you can share your solution:
 
@@ -62,7 +65,7 @@ There are multiple places you can share your solution:
 2. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack).
 3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 
-## Giving feedback
+### Giving feedback
 
 Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
 
