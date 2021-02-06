@@ -1,12 +1,10 @@
-# About the challenges - Frontend Mentor - 
-
-
-🧡Link for my solution: https://www.frontendmentor.io/profile/AnaPriscilla/solutions
-
-
+# Check my profile with the solutions I have sent, which are great challenges for me! 😊
 ![Vamos lá! Come On](https://media.giphy.com/media/SYp3ei87e9T8OJYrgx/giphy.gif)
 
-## Welcome! 👋
+🧡 This is the link to my solutions on the Front End Mentor: https://www.frontendmentor.io/profile/AnaPriscilla/solutions 🧡
+
+## About the - Frontend Mentor - 👋
+### Welcome! 
 
 Thanks for checking out this front-end coding challenge.
 
