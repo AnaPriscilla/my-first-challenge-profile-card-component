@@ -7,7 +7,11 @@ https://www.frontendmentor.io/profile/AnaPriscilla/solutions
 
 ![Vamos lá! Come On](https://media.giphy.com/media/SYp3ei87e9T8OJYrgx/giphy.gif)
 
+## MY DONE LIST: 
 
+01 - [Profile-Card-Component](https://github.com/AnaPriscilla/my-front-end-challenges/tree/master/Desafio-01/a-minha-solucao-do-profile-card-component)
+
+###### 02 - Faq-Accordion-Card | in process...
 
 ## About the: Frontend Mentor 👋
 ### Welcome! 
