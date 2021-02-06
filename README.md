@@ -1,11 +1,10 @@
-# Frontend Mentor - Profile card component
-
-🖥 Deploy: https://my-first-challenge-profile-card-component.vercel.app/
-
-🧡Link for my solution: https://www.frontendmentor.io/solutions/html-css-QQVXmyERA
+# About the challenges - Frontend Mentor - 
 
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
+🧡Link for my solution: https://www.frontendmentor.io/profile/AnaPriscilla/solutions
+
+
+![Vamos lá! Come On](https://media.giphy.com/media/SYp3ei87e9T8OJYrgx/giphy.gif)
 
 ## Welcome! 👋
 
