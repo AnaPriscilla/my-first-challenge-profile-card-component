@@ -114,6 +114,10 @@ details summary::-webkit-details-marker {
     display: none;
 }
 
+details::marker {
+    display: none;
+}
+
 svg {
     position: absolute;
     width: 24px; 
