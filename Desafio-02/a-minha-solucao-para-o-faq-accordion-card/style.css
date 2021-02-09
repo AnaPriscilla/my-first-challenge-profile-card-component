@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans';
+}
+
+section {
+    width: 100wh;
+    height: 100vh;
+    background-color:  hsl(240, 73%, 65%);
+    background-image: -webkit-linear-gradient(bottom, transparent, hsl(273, 75%, 66%));
+}
+
+#container {
+    width: 900px;
+    height: 480px;
+    background-color: #fff;    
+    border-radius: 1em;
+
+    /* Centralizando usando position | transform */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    /* Sombra */
+    box-shadow: 10px 25px 20px 0 rgba(0,0,0,.2);
+    overflow: hidden;
+}
+
+/* Imagens */
+.bg-pattern-desktop {
+    float: left;
+    margin-left: -56%;
+    margin-top: -29%;
+    height: 180%;
+    /* border: 2px solid pink; */
+}
+
+.illustration-woman-desktop {
+    position: absolute;
+    height: 74%;
+    margin-left: -10%;
+    margin-top: 5.8%;
+    /*border: 2px solid pink; */
+}
+
+/* imagem fora */
+.illustration-box-desktop {
+    position: absolute;
+    margin-left: -2.2%;
+    margin-top: 18%;
+}
+
+.container-aux {
+    width: 150px;
+    height: 150px;
+    z-index: 1;
+    /*border: 1px solid red;*/
+    border-radius: 1em;
+    position: absolute;
+    top: 48%;
+    left: 16%;
+    transform: translate(-50%,-50%);
+}
+
+h1 {
+    padding-bottom: 20px;
+    margin-left: -7px;
+    font-size: 32px;
+}
+
+p {
+    overflow: hidden;
+    line-height: 17px;
+    font-size: 12px;
+}
+
+.faq {
+    padding: 70px 20px 30px;
+    margin-left: 50%;
+    margin-right: 5%;
+    text-align: left;
+    font-size: 16px;
+    /*marcação*/
+    /*border: 1px solid red;*/
+}
+
+.icon-arrow {
+    margin-left: 100%;
+    margin-top: -5%;
+}
+
+/* estilizando o details */
+details {
+    border-bottom: 1px solid  hsl(240, 5%, 91%);
+}
+
+details, summary, p {
+    outline: none;
+    padding: 7px;
+    margin-left: -10px;
+    color: hsl(240, 6%, 50%);
+}
+
+/* ou assim: ::-webkit-details-marker 
+ | ou assim: summary::-webkit-details-marker*/
+details summary::-webkit-details-marker {
+    float: right;
+    margin-top: 3px;
+    display: none;
+}
+
+svg {
+    position: absolute;
+    width: 24px; 
+    height: 24px;
+}
+
+svg:active {
+    position: absolute;
+    margin-left: 55px;
+    margin-top: -5px;
+    color: hsl(14, 88%, 65%);
+    transform: rotate(180deg);
+}
+
+svg:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+/* Quando faq ativado */
+summary:hover {
+    cursor: pointer;
+}
+
+summary:focus{
+    color: #000;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/* Mobile */
+@media (max-width:600px) {
+    .bg-pattern-desktop, .illustration-woman-desktop, .illustration-box-desktop {
+        display: none;
+    }
+
+    .bg-pattern-mobile {
+        position: absolute;
+        z-index: 1;
+        margin-top: 32%;
+        margin-left: 17%;
+    }
+
+    .illustration-woman-mobile {
+        z-index: 1;
+        position: absolute;
+        margin-top: 4%;
+        margin-left: 10%;
+    }
+
+    .container-aux {
+        display: none;
+    }
+
+    section {
+        width: 100%;
+    }
+
+    #container {
+        margin-top: 13% ;
+        width: 80vw;
+        height: 78vh;
+    }
+
+    h1 {
+
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .faq {
+        margin: auto;
+        margin-top: 35%;
+        padding: 30px;
+        font-size: 12px;
+    }
+
+    .attribution {
+        display: none;
+        
+    }
+}
+
+@media (min-width:600px) {
+    .illustration-woman-mobile, .bg-pattern-mobile  {
+        display: none;
+    }
+}
+
+
+/* Challenge Credits */
+.attribution {
+    font-size: 10px;
+    color: hsl(271, 49%, 91%);
+    position: absolute;
+    bottom: 1%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+  
+.attribution a {
+    text-decoration: none;
+    color: hsl(295, 78%, 91%);
+}
+  
+.attribution a:hover {
+    color: #acf5ff;
+}
