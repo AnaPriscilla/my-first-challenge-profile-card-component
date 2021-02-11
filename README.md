@@ -11,7 +11,7 @@ https://www.frontendmentor.io/profile/AnaPriscilla/solutions
 
 01 - [Profile-Card-Component](https://github.com/AnaPriscilla/my-front-end-challenges/tree/master/Desafio-01/a-minha-solucao-do-profile-card-component)
 
-###### 02 - Faq-Accordion-Card | in process...
+###### 02 - Faq-Accordion-Card | in process...95% (Update: later i will implement Js)
 
 ## About the: Frontend Mentor 👋
 ### Welcome! 
